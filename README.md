@@ -26,7 +26,7 @@
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US.
 - :telescope: I’m working as a Software Engineer and backend developer for web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Learning new languages such as Go and C++
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 

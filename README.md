@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/Qc0BxWM9TxljvJug2x/giphy.gif?cid=ecf05e47efzvdn3h9lwrxvip98cy14lqi38l00uckiiaprsc&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
+    <a href="your-portfolio-URL">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="your-twitter-URL">
@@ -24,7 +24,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US.
 - :telescope: I’m working as a Software Engineer and backend developer for web applications.
 
 - :seedling: Exploring Technical Content Writing.

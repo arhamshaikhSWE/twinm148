@@ -23,12 +23,12 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US.
-- :telescope: I’m working as a Software Engineer and backend developer for web applications.
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> situated in the US.
+- :telescope: I am a Software Engineer, specifically a backend web developer
 
-- :seedling: Learning new languages such as Go and C++
+- :seedling: Currently learning Go and JavaScript 
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time I enjoy reading books and writing screenplays!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arham-s-62304a21b/)
 

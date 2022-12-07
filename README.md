@@ -23,8 +23,8 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> situated in the US.
-- :telescope: I am a Software Engineer, specifically a backend web developer
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specifically a Backend Web Developer
+- :telescope: I'm situated in the US
 
 - :seedling: Currently learning Go and JavaScript 
 

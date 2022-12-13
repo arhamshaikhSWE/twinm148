@@ -20,7 +20,7 @@
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specializing as a Backend Developer
 - :telescope: I'm situated in the US
 
-- :seedling: Currently learning Go and JavaScript 
+- :seedling: Currently learning Rust and Scala
 
 - :zap: In my free time I enjoy reading books and writing screenplays!
 

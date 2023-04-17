@@ -17,7 +17,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specializing as a Backend Developer
+I am a Software Engineer with front and backend experience<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :telescope: I'm situated in the US
 
 - :seedling: Currently learning Rust and Scala
